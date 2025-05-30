@@ -2,7 +2,7 @@
 
 ETCPAD is an 8 key macropad designed for use with the ETC Nomad lighting control software
 
-<img src=assets/schematic.png alt="Overall" width="300"/>
+<img src=assets/overall.png alt="Overall" width="300"/>
 
 ## CAD Model:
 Everything fits together using 4 3mm Dowels
@@ -10,7 +10,7 @@ Everything fits together using 4 3mm Dowels
 It has 2 separate printed pieces, the bottom which houses the PCB and the top which as holes for the keycaps
 Made in Fusion360.
 
-<img src=assets/schematic.png alt="Split" width="300"/>
+<img src=assets/split.png alt="Split" width="300"/>
 
 ## PCB
 Here's my PCB! It was made in KiCad.
