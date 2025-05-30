@@ -1,4 +1,4 @@
-# maxworboys/etcpad2
+# maxworboys/hackpad
 
 8 Key macro pad designed for use with ETC Nomad lighting software
 
