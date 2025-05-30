@@ -2,7 +2,7 @@
 
 ETCPAD is an 8 key macropad designed for use with the ETC Nomad lighting control software
 
-<img src=assets/overall.png alt="Overall" width="300"/>
+assets/Overall.png
 
 ## CAD Model:
 Everything fits together using 4 3mm Dowels
