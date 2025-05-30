@@ -1,12 +1,8 @@
 # maxworboys/etcpad2
 
-![maxworboys/etcpad2](imgur.com image replace me!)
-
-*A short description of the keyboard/project*
+8 Key macro pad designed for use with ETC Nomad lighting software
 
 * Keyboard Maintainer: [Max Worboys](https://github.com/max-worboys)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
 
 Make example for this keyboard (after setting up your build environment):
 
