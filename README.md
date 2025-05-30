@@ -11,7 +11,7 @@ It has 2 separate printed pieces, the bottom which houses the PCB and the top wh
 Made in Fusion360.
 
 ![image](https://github.com/user-attachments/assets/0006b774-b1cc-4165-b78a-445fb8992d99)
-
+*Green Block = PCB
 
 ## PCB
 Here's my PCB! It was made in KiCad.
