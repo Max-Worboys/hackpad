@@ -18,7 +18,8 @@ Made in Fusion360.
 Here's my PCB! It was made in KiCad.
 Schematic
 
-[![image](https://github.com/user-attachments/assets/502de906-96ab-4984-a0d6-422970f44745)](https://github.com/Max-Worboys/hackpad/blob/main/assets/Schematic1.png?raw=true)
+![image](https://github.com/user-attachments/assets/90c6f892-93ad-400c-96c1-63636e4450e4)
+
 
 PCB
 
