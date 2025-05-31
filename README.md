@@ -22,7 +22,8 @@ Schematic
 
 PCB
 
-![image](https://github.com/user-attachments/assets/b234b011-2b19-438c-aaac-edcf57ccbe0c)
+![image](https://github.com/user-attachments/assets/74e7f9a4-66b7-4e85-b218-28e997612700)
+
 
 ## BOM:
 Here is be everything you need to make this hackpad
